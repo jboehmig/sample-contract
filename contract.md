@@ -1,4 +1,4 @@
-sample-contract
+Contract
 ===============
 
 Startup ABC, Inc. ("The Company") and Investor XYZ ("The Investor") agree to the following:
